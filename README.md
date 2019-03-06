@@ -10,7 +10,7 @@ This contains Five files:
   4. automateAgent.sh -> Bash shell script to access the website and store the content in 'addAgent.json'.
   5. addAgent.json -> This is final result of the agent list in json format.
   
-  It is a task given from the company where I am working as an Intern. 
+  It is a task given by the company where I am working as an Intern. 
 
 Thanks,
 Suraj Kumar
